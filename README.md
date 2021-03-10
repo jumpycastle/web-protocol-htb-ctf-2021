@@ -1,2 +1,3 @@
-# ea-ctf-2021
-ea-ctf-2021
+<p align='center'>
+  <img src='assets/webprotocol_logo.png'>
+</p>
